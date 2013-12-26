@@ -13,7 +13,7 @@ sudo pip install psutil
 Place the memory.py file in the middleware directory of django settings. The exact location is:      
 ENV/lib/python2.7/site-packages/django/middleware
 
-Include the file-name in your project settings file under the MIDDLEWARE_CLASSES. It should look like this:
+Include the middleware file-name in your project settings file under the MIDDLEWARE_CLASSES. It should look like this:
 MIDDLEWARE_CLASSES = (    
      ....      
      ...     
