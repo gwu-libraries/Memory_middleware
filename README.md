@@ -22,3 +22,7 @@ MIDDLEWARE_CLASSES = (
 )
 
 
+Cloning:   
+If you clone the middleware using the url : https://github.com/gwu-libraries/Memory_middleware.git
+You will get a whole new directory at your current location, from there you will have to make the above mentioned changes to get it working.    
+If this directory is kept anywhere in your project or outside, it will not impact the already present django settings. 
