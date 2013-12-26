@@ -3,8 +3,7 @@ Memory_middleware
 A middleware to check the memory utilized by the url request-response process.
 Developed at the GWU Libraries in Washington, DC, USA.
 
-Installation:
-
+Installation:      
 Developed using Python 2.7,Django 1.5 and psutil.  
 psutil is a python package used for retrieving information on running processes and the system utilization.
 
