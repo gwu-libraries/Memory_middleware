@@ -1,7 +1,6 @@
 Memory_middleware
 =================
-A middleware to check the memory utilized by the url request-response process.
-Developed at the GWU Libraries in Washington, DC, USA.
+A middleware to check the memory utilized by the url request-response process.  
 
 Installation:      
 Developed using Python 2.7,Django 1.5 and psutil.  
